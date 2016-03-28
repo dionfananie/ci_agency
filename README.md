@@ -1,4 +1,27 @@
-<<<<<<< HEAD
+Website Agency template from StartBootstrap and covering the backend with Code Igniter. the File index was split into some files in order to  minimalize broken file someday. 
+
+
+
+File CSS,Js, Image in dionco folder outside the application folder.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # CodeIgniter 2
 Open Source PHP Framework (originally from EllisLab)
 
